@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yoshi</folder>
+	<filename>B517.jpeg</filename>
+	<path>/home/yeshua/Documentos/Yoshi/B517.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2640</width>
+		<height>1488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yoshi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>23</ymin>
+			<xmax>1218</xmax>
+			<ymax>1142</ymax>
+		</bndbox>
+	</object>
+</annotation>
