@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lobo</folder>
+	<filename>823.jpg</filename>
+	<path>C:\Users\HP\Documents\Lobo\823.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1140</width>
+		<height>855</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lobo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>62</ymin>
+			<xmax>1017</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>
