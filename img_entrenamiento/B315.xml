@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yoshi</folder>
+	<filename>B315.jpg</filename>
+	<path>/home/yeshua/Documentos/Yoshi/B315.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>774</width>
+		<height>774</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yoshi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>18</ymin>
+			<xmax>522</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

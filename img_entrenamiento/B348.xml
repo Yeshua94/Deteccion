@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yoshi</folder>
+	<filename>B348.jpg</filename>
+	<path>/home/yeshua/Documentos/Yoshi/B348.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>774</width>
+		<height>968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yoshi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>523</xmin>
+			<ymin>365</ymin>
+			<xmax>713</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>
