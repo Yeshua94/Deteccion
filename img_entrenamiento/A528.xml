@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lobo</folder>
+	<filename>A528.jpg</filename>
+	<path>/home/yeshua/Documentos/Lobo/A528.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2121</width>
+		<height>1193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lobo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>35</ymin>
+			<xmax>1779</xmax>
+			<ymax>1138</ymax>
+		</bndbox>
+	</object>
+</annotation>
