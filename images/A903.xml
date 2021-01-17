@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lobo</folder>
+	<filename>A903.jpg</filename>
+	<path>/home/yeshua/Documentos/Lobo/A903.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lobo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>113</ymin>
+			<xmax>1140</xmax>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+</annotation>
